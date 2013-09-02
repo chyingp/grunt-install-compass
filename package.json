@@ -1,7 +1,7 @@
 {
   "name": "grunt-install-compass",
   "description": "下载并安装compass，依赖于ruby环境",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/chyingp/grunt-install-compass",
   "author": {
     "name": "chyingp",
